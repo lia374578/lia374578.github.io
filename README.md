@@ -4,8 +4,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://lia374578.github.io/" target="_blank"><img src="examples/preview.gif">
-  </a>
+    <a href="https://lia374578.github.io/" target="_blank"><img src="examples/preview.gif"></a>
   </kbd>
 </p>
 
